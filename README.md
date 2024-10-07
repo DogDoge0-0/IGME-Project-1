@@ -26,8 +26,8 @@ This website features many standard features found across many of the websites p
 The website’s UI is designed to be simplistic and easy to use, to allow for users who would like to migrate from an existing recipe website to food avenue in a seamless manner. The UI is meant to be modern and simple, preventing any new users from getting overwhelmed like some of the competitors websites have. Note the popup on load, the intrusive advertising and the auto playing videos. 
 This website features two innovations. They are: *Links to each ingredient*, using affiliate links when possible, to make a small commission from online ordering of ingredients. Secondly, This website will allow the user to *search for ingredient combinations*, so if they don’t have many ingredients at their disposal, they can find something to make using what they currently have.
 
-![ExampleUI](../ExampleUI)
-
+![ExampleUI](ExampleUI)
+> A preview of what the UI *could* look like
 ---
 
 ### Possible Problems and Counterarguments
